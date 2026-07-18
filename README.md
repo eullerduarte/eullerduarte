@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Euller%20Duarte&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=40" alt="Banner animado com o nome Euller Duarte sobre fundo escuro" width="100%"/>
+<img src="Image/banner.svg" alt="Banner com o nome Euller Duarte sobre fundo escuro" width="100%"/>
 
 <a href="https://euuuller.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Analista+de+Dados;Python+%26+SQL;Power+BI+%7C+DAX;Ex-Engenheiro+Eletricista+migrando+para+Dados" alt="Texto animado alternando entre Analista de Dados, Python e SQL, Power BI com DAX, e Ex-Engenheiro Eletricista migrando para Dados" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Analista+de+Dados;Data+Analyst;Graduando+em+Engenharia+Elétrica" alt="Texto animado alternando entre Analista de Dados, Data Analyst e Graduando em Engenharia Elétrica" />
 </a>
 
 </div>
 
 <br/>
 
-**Engenheiro Eletricista (IFMA) em transição para Análise de Dados — transformo a mesma disciplina usada para medir qualidade de energia elétrica em decisões de negócio orientadas por dados, SQL e Power BI.**
+**Graduando em Engenharia Elétrica com o olhar voltado para o futuro dos negócios. De modo, com foco em Análise de Dados, aplicando o rigor analítico e a resolução de problemas da engenharia para construir dashboards e consultas SQL que direcionam decisões estratégicas.**
 
 <br/>
 

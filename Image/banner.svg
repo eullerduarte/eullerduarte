@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="30%">
+      <stop offset="0%" stop-color="#2E6BB8"/>
+      <stop offset="35%" stop-color="#173F7A"/>
+      <stop offset="65%" stop-color="#0A1A3D"/>
+      <stop offset="100%" stop-color="#060F26"/>
+    </linearGradient>
+    <linearGradient id="wedgeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3E82D1"/>
+      <stop offset="100%" stop-color="#173F7A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1600" height="400" fill="url(#bgGradient)"/>
+
+  <!-- Decorative wedge accent (bottom-left) -->
+  <polygon points="0,0 620,0 260,400 0,400" fill="url(#wedgeGradient)" opacity="0.55"/>
+
+  <!-- Rounded outline card -->
+  <rect x="480" y="30" width="1100" height="300" rx="36" ry="36"
+        fill="#0A1330" fill-opacity="0.35" stroke="#FFFFFF" stroke-width="2.5"/>
+
+  <!-- Main title -->
+  <text x="1030" y="165" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-weight="700"
+        font-size="52" fill="#FFFFFF" letter-spacing="0.5">
+    Analista de Dados | Data Analyst
+  </text>
+
+  <!-- Subtitle -->
+  <text x="1030" y="235" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-weight="700"
+        font-size="46" fill="#FFFFFF" letter-spacing="0.5">
+    Graduando em Engenharia Elétrica
+  </text>
+
+  <!-- Email -->
+  <text x="1560" y="375" text-anchor="end"
+        font-family="Arial, Helvetica, sans-serif" font-weight="400"
+        font-size="24" fill="#E6ECF7">
+    euller.santos.duarte@gmail.com
+  </text>
+</svg>
