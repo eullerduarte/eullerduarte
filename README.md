@@ -12,7 +12,7 @@
 </div>
 
 <p align="justify">
-Graduando em Engenharia Elétrica pelo Instituto Federal do Maranhão (IFMA), com direcionamento em <strong>Análise de Dados</strong> e <strong>Business Intelligence</strong>. Domínio prático em Excel, Power BI, SQL e Python, aplicando estatística descritiva, probabilística e inferencial em análises descritivas, diagnósticas, preditivas e prescritivas. Com foco na resolução prática de problemas, construí um portfólio de projetos utilizando dados públicos, atuando desde a estruturação de dados brutos até a entrega de inteligência acionável. Busco uma oportunidade de Estágio em Análise de Dados para aplicar pensamento crítico, comunicação clara de métricas e foco na resolução de problemas complexos. Portfólio completo disponível abaixo, fico à disposição para conversar.
+Graduando em Engenharia Elétrica pelo Instituto Federal do Maranhão (IFMA), com direcionamento em <strong>Análise de Dados</strong> e <strong>Business Intelligence</strong>. Domínio prático em <strong>Excel</strong>, <strong>Power BI</strong>,<strong>SQL</strong> e <strong>Python</strong>, aplicando estatística descritiva, probabilística e inferencial em análises descritivas, diagnósticas, preditivas e prescritivas. Com foco na resolução prática de problemas, construí um portfólio de projetos utilizando dados públicos, atuando desde a estruturação de dados brutos até a entrega de inteligência acionável. Busco uma oportunidade de Estágio em Análise de Dados para aplicação de pensamento crítico, comunicação clara de métricas com storytelling e foco na resolução de problemas. Desde já fico à disposição para me conectar e conversar, um forte abraço.
 </p>
 
 <hr/>
@@ -23,7 +23,8 @@ Graduando em Engenharia Elétrica pelo Instituto Federal do Maranhão (IFMA), co
 <img src="Image/Pandas.svg" alt="Pandas" title="Pandas" width="48" height="48"/>&nbsp;&nbsp;
 <img src="Image/Matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="48" height="48"/>&nbsp;&nbsp;
 <img src="Image/seaborn.svg" alt="Seaborn" title="Seaborn" width="48" height="48"/>&nbsp;&nbsp;
-<img src="Image/jupyter.svg" alt="jupyter" title="jupyter" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" title="jupyter"
+width="48" height="48"/>&nbsp;&nbsp;
 <img src="Image/UV.svg" alt="UV" title="UV" width="48" height="48"/>&nbsp;&nbsp;
 <img src="Image/SQLServer.svg" alt="SQLServer" title="SQLServer" width="48" height="48"/>&nbsp;&nbsp;
 <img src="Image/DuckDB.svg" alt="DuckDB" title="DuckDB" width="48" height="48"/>&nbsp;&nbsp;
@@ -33,8 +34,10 @@ Graduando em Engenharia Elétrica pelo Instituto Federal do Maranhão (IFMA), co
 <img src="Image/looker.svg" alt="looker" title="looker" width="48" height="48"/>&nbsp;&nbsp;
 <img src="Image/Excel.svg" alt="Excel" title="Excel" width="48" height="48"/>&nbsp;&nbsp;
 <img src="Image/Visual.svg" alt="Visual" title="Visual" width="48" height="48"/>&nbsp;&nbsp;
-<img src="Image/Git.svg" alt="Git" title="Git" width="48" height="48"/>&nbsp;&nbsp;
 <img src="Image/claudecode.svg" alt="claudecode" title="claudecode" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"
+width="48" height="48"/>&nbsp;&nbsp;
+
 </div>
 
 <hr/>
