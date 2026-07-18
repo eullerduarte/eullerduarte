@@ -1,27 +1,40 @@
 <div align="center">
 <img src="Image/banner.svg" alt="Banner com o nome Euller Duarte sobre fundo escuro" width="100%"/>
-<hr/>
-
-<a href="https://euuuller.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Analista+de+Dados%3BData+Analyst%3BGraduando+em+Engenharia+El%C3%A9trica" alt="Texto animado alternando entre Analista de Dados, Data Analyst e Graduando em Engenharia Elétrica"/>
-</a>
 </div>
 
-<p align="justify">
-Sou graduando em <strong>Engenharia Elétrica</strong> pelo Instituto Federal do Maranhão (IFMA), com foco em <strong>Análise de Dados</strong> e tomada de decisão orientada a dados. Possuo experiência prática com Excel, Power BI, SQL e Python, aplicando conceitos de Estatística e os principais tipos de análise de dados Descritiva, Diagnóstica, Preditiva e Prescritiva para resolver problemas de negócio. Desenvolvi projetos completos utilizando dados públicos, incluindo segmentação de clientes (RFM), análise de retenção por cohort, diagnóstico de queda de vendas, criação de dashboards gerenciais e previsão do número de pedidos, transformando dados brutos em insights acionáveis.
-Busco uma oportunidade de <strong>Estágio como Analista de Dados</strong>, onde eu possa contribuir com análises claras, métricas relevantes e soluções orientadas a dados para apoiar decisões estratégicas nas organizações, sempre com ênfase no pensamento crítico e na resolução de problemas.
-</p>
+<hr/>
 
 <div align="center">
-
 <a href="#"><img src="https://img.shields.io/badge/PORTFÓLIO-VISITE-388BFD?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar portfólio" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-CONECTE_SE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" /></a>
 <a href="#"><img src="https://img.shields.io/badge/EMAIL-CONTATO-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail de contato" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CURRÍCULO-DOWNLOAD-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo" /></a>
-
 </div>
+
+<p align="justify">
+Graduando em Engenharia Elétrica pelo Instituto Federal do Maranhão (IFMA), com direcionamento em <strong>Análise de Dados</strong> e <strong>Business Intelligence</strong>. Domínio prático em Excel, Power BI, SQL e Python, aplicando estatística descritiva, probabilística e inferencial em análises descritivas, diagnósticas, preditivas e prescritivas. Com foco na resolução prática de problemas, construí um portfólio de projetos utilizando dados públicos, atuando desde a estruturação de dados brutos até a entrega de inteligência acionável. Busco uma oportunidade de Estágio em Análise de Dados para aplicar pensamento crítico, comunicação clara de métricas e foco na resolução de problemas complexos. Portfólio completo disponível abaixo, fico à disposição para conversar.
+</p>
+
 <hr/>
 
 <div align="center">
-<sub>Obrigado pela visita ✨ — sempre aberto a conversar sobre dados, energia elétrica e as duas coisas juntas.</sub>
+<img src="Image/python.svg" alt="Python" title="Python" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/numpy.svg" alt="NumPy" title="NumPy" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/Pandas.svg" alt="Pandas" title="Pandas" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/Matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/seaborn.svg" alt="Seaborn" title="Seaborn" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/jupyter.svg" alt="jupyter" title="jupyter" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/UV.svg" alt="UV" title="UV" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/SQLServer.svg" alt="SQLServer" title="SQLServer" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/DuckDB.svg" alt="DuckDB" title="DuckDB" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/PostgresSQL.svg" alt="PostgresSQL" title="PostgresSQL" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/Dbt.svg" alt="Dbt" title="Dbt" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/PowerBI.svg" alt="PowerBI" title="PowerBI" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/looker.svg" alt="looker" title="looker" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/Excel.svg" alt="Excel" title="Excel" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/Visual.svg" alt="Visual" title="Visual" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/Git.svg" alt="Git" title="Git" width="48" height="48"/>&nbsp;&nbsp;
+<img src="Image/claudecode.svg" alt="claudecode" title="claudecode" width="48" height="48"/>&nbsp;&nbsp;
 </div>
+
+<hr/>
