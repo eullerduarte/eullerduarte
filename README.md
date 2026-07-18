@@ -8,9 +8,22 @@
 
 </div>
 
-<br/>
+<hr/>
 
-**Graduando em Engenharia Elétrica com o olhar voltado para o futuro dos negócios. De modo, com foco em Análise de Dados, aplicando o rigor analítico e a resolução de problemas da engenharia para construir dashboards e consultas SQL que direcionam decisões estratégicas.**
+<p align="justify">
+Sou graduando em <strong>Engenharia Elétrica</strong> pelo Instituto Federal do Maranhão (IFMA), com foco em <strong>Análise de Dados</strong> e tomada de decisão orientada a dados. Possuo experiência prática com Excel, Power BI, SQL e Python, aplicando conceitos de Estatística e os principais tipos de análise de dados Descritiva, Diagnóstica, Preditiva e Prescritiva para resolver problemas de negócio. Desenvolvi projetos completos utilizando dados públicos, incluindo segmentação de clientes (RFM), análise de retenção por cohort, diagnóstico de queda de vendas, criação de dashboards gerenciais e previsão do número de pedidos, transformando dados brutos em insights acionáveis.
+<br/><br/>
+Busco uma oportunidade de <strong>Estágio como Analista de Dados</strong>, onde eu possa contribuir com análises claras, métricas relevantes e soluções orientadas a dados para apoiar decisões estratégicas nas organizações, sempre com ênfase no pensamento crítico e na resolução de problemas.
+</p>
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/PORTFÓLIO-VISITE-388BFD?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar portfólio" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-CONECTE_SE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" /></a>
+<a href="#"><img src="https://img.shields.io/badge/EMAIL-CONTATO-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail de contato" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CURRÍCULO-DOWNLOAD-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo" /></a>
+
+</div>
 
 <br/>
 
